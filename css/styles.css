@@ -44,6 +44,16 @@ h2 {
     letter-spacing: 0.03em;
 }
 
+.mainpage, .portfoliopage {
+    color: var(--main-color);
+}
+
+.all-button {
+    color: var(--hovereditemtext-color);
+    background-color: var(--main-color);
+    border: none;
+}
+
 .team {
     background-color: var(--teambackground-color);
 }
